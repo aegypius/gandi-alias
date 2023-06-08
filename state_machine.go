@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"aegypius.com/gandi-alias/aliases"
+	"github.com/aegypius/gandi-alias/aliases"
 	"github.com/charmbracelet/log"
 	"github.com/qmuntal/stateless"
 )
